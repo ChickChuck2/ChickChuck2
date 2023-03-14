@@ -7,7 +7,7 @@ O melhor programador do meu bairro desde 1969
 
 - ##Ferramentas
 
- ![](https://cdn-icons-png.flaticon.com/64/5968/5968350.png) ![](https://cdn-icons-png.flaticon.com/64/5968/5968282.png) ![](https://cdn-icons-png.flaticon.com/64/6132/6132221.png)![](https://cdn-icons-png.flaticon.com/64/6132/6132222.png)
+ ![](https://cdn-icons-png.flaticon.com/64/5968/5968350.png) ![](https://cdn-icons-png.flaticon.com/64/5968/5968282.png) ![](https://cdn-icons-png.flaticon.com/64/6132/6132221.png)![](https://cdn-icons-png.flaticon.com/64/6132/6132222.png)<br>
  ![](https://cdn-icons-png.flaticon.com/32/906/906324.png) ![](https://cdn-icons-png.flaticon.com/32/518/518705.png) ![](https://cdn-icons-png.flaticon.com/32/5969/5969294.png)
  
 
