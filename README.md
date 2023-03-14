@@ -1,4 +1,5 @@
 #ChickChuck2
+<br>
 ![](https://avatars.githubusercontent.com/u/48648882?v=4&size=128) <-- Esse boiola aí
 O melhor programador do meu bairro desde 1969
 
