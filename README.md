@@ -35,7 +35,7 @@ Oveger é um overlay para a plataforma windows feito em C# da microsoft.com, com
 
 
 - #MLG BR
-<img src="https://github.com/ChickChuck2/MLG-BR/blob/main/appicon.png?raw=true",="" style="width:64px;height:64px">
+<img src="https://github.com/ChickChuck2/MLG-BR/blob/main/appicon.png?raw=true" style="width:64px;height:64px">
 <br>
 [![](https://cdn-icons-png.flaticon.com/32/300/300218.png)](https://play.google.com/store/apps/details?id=com.CywoodsDev.MLGBR)
 
